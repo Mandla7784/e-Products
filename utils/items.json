@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Tesla Model S",
+    "description": "Luxury electric sedan with cutting-edge technology.",
+    "price": 79990,
+    "image": "https://www.tesla.com/sites/default/files/modelsx-new/social/model-s-hero-social.jpg"
+  },
+  {
+    "name": "BMW 3 Series",
+    "description": "Sporty and elegant compact executive car.",
+    "price": 40950,
+    "image": "https://www.bmw.com/content/dam/bmw/common/all-models/3-series/sedan/2019/navigation/bmw-3-series-sedan-modelpage-stage.jpg"
+  },
+  {
+    "name": "Mercedes-Benz E-Class",
+    "description": "Sophisticated and comfortable midsize luxury car.",
+    "price": 54900,
+    "image": "https://www.mercedes-benz.com/en/vehicles/passenger-cars/e-class/the-new-e-class/_jcr_content/image.MQ6.2.2x.20191204094105.jpeg"
+  },
+  {
+    "name": "Audi Q5",
+    "description": "Premium compact SUV with a blend of performance and luxury.",
+    "price": 43900,
+    "image": "https://www.audi.com/content/dam/gbp2/experience-audi/models-and-technology/suv-models/q5/2020/audi-q5-2020-hero.jpg"
+  },
+  {
+    "name": "Toyota Camry",
+    "description": "Reliable and fuel-efficient midsize sedan.",
+    "price": 24925,
+    "image": "https://www.toyota.com/camry/assets/photogallery/2023/exterior/hero/2023_Camry_XSE_Hybrid_Supersonic_Red_Front_34.jpg"
+  },
+  {
+    "name": "Ford F-150",
+    "description": "Iconic full-size pickup truck known for its durability.",
+    "price": 28390,
+    "image": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/trucks/f150/2023/hero/2023_F150_Lariat_Agate_Black_Front_34.png"
+  },
+  {
+    "name": "Honda Civic",
+    "description": "Compact car with a reputation for reliability and efficiency.",
+    "price": 21750,
+    "image": "https://automobiles.honda.com/images/default-source/2023-civic-sedan/2023-civic-sedan-touring-crystal-black-pearl.jpg"
+  },
+  {
+    "name": "Chevrolet Corvette",
+    "description": "Legendary American sports car with high performance.",
+    "price": 59995,
+    "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2023/performance/corvette/mov/01-images/2023-corvette-stingray-hero-01.jpg"
+  },
+  {
+    "name": "Porsche 911",
+    "description": "Iconic sports car with a perfect blend of performance and luxury.",
+    "price": 99800,
+    "image": "https://www.porsche.com/usa/models/911/911-models/911-carrera-s/gallery/"
+  },
+  {
+    "name": "Subaru Outback",
+    "description": "Versatile and capable crossover SUV with all-wheel drive.",
+    "price": 26945,
+    "image": "https://www.subaru.com/content/dam/subaru/vehicles/outback/2023/gallery/exterior/01-subaru-outback-2023-exterior-gallery-01.jpg"
+  },
+  {
+    "name": "Lamborghini Aventador",
+    "description": "Exotic supercar with breathtaking performance and design.",
+    "price": 417826,
+    "image": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/aventador/aventador-svj/gallery/aventador-svj-gallery-01.jpg"
+  },
+  {
+    "name": "Jeep Wrangler",
+    "description": "Iconic off-road SUV known for its rugged capabilities.",
+    "price": 28395,
+    "image": "https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2023/wrangler/gallery/exterior/2023-jeep-wrangler-rubicon-4xe-exterior-gallery-01.jpg"
+  },
+  {
+    "name": "Volkswagen Golf GTI",
+    "description": "Hot hatchback with a perfect balance of performance and practicality.",
+    "price": 28995,
+    "image": "https://www.volkswagen.com/en/models/golf-gti/_jcr_content/root/responsivegrid/image.VW.img.jpg"
+  },
+  {
+    "name": "Mazda MX-5 Miata",
+    "description": "Classic roadster with a fun-to-drive nature and affordable price.",
+    "price": 26590,
+    "image": "https://www.mazdausa.com/siteassets/vehicles/2023/mx-5-miata/gallery/exterior/2023-mx-5-miata-rf-soul-red-crystal-metallic-front-three-quarter.jpg"
+  }
+]
